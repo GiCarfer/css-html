@@ -1,0 +1,13 @@
+nav a:hover {
+  color: #7e00a0;
+}
+
+
+button {
+  color: black;
+  background-color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+  
+ }
